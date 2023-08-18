@@ -25,16 +25,16 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/eVipeZ">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pa7hp2ggp9p7m7xs76w1zlnx7&unique={true|1|on|yes}" alt="Spotify recently played"  />
+  <a href="https://linktr.ee/evipez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://linktr.ee/evipez" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  <a href="https://open.spotify.com/user/eVipeZ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pa7hp2ggp9p7m7xs76w1zlnx7&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
 </div>
 
