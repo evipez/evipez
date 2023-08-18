@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋! My name is Jan and I am from Austria</h1>
-
-###
 
 <h3 align="center">My Tech Stack</h3>
 
